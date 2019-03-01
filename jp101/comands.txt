@@ -1,5 +1,0 @@
-
-iconv -f UTF-16LE -t UTF-8 japanesepod101_mywordbank_2019-03-02.csv -o japanesepod101_mywordbank_2019-03-02.utf8.csv
-
-cat japanesepod101_mywordbank_2019-03-02.utf8.csv| tr ',' '\t' | cut -f1,2,3 | tail -n +2 > poke.txt
-

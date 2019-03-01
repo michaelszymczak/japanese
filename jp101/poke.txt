@@ -1,20 +1,25 @@
-皆さん	みなさん	mina-san
-今年	ことし	kotoshi
-会う	あう	au
-結婚する	けっこんする	kekkon suru
-成田市	なりたし	Narita-shi
-千葉県	ちばけん	Chiba-ken
-足立区	あだちく	Adachi ku
-東京都	とうきょうと	Tōkyō-to
-彼女	かのじょ	kanojo
-名前	なまえ	namae
-プロボクサー	プロボクサー	purobokusā
-出身	しゅっしん	shusshin
-緊張する	きんちょうする	kinchō suru
-犬	いぬ	inu
-久しぶり。	ひさしぶり。	Hisashiburi.
-こちら	こちら	kochira
-彼氏	かれし	kareshi
-母	はは	haha
-あら	あら	ara
-つまらない	つまらない	tsumaranai
+皆さん	みなさん	everyone
+今年	ことし	this year
+会う	あう	to meet; V1
+結婚する	けっこんする	to marry; -suru=class 3 verb
+成田市	なりたし	Narita-city
+千葉県	ちばけん	Chiba prefecture (Kanto region)
+足立区	あだちく	Adachi ward
+東京都	とうきょうと	Tokyo Metropolitan area
+彼女	かのじょ	girlfriend
+名前	なまえ	name
+プロボクサー	プロボクサー	professional boxer
+出身	しゅっしん	person's origin (hometown/country)
+緊張する	きんちょうする	to feel nervous
+犬	いぬ	dog
+久しぶり。	ひさしぶり。	Long time no see. (informal)
+こちら	こちら	this person/ this direction
+彼氏	かれし	boyfriend
+母	はは	mother
+あら	あら	oh/ ah
+つまらない	つまらない	boring/ uninteresting; -i adjective
+でも	でも	but/ however
+たのしい	たのしい	fun/ amusing; Adj (i)
+一人っ子	ひとりっこ	only child
+妹	いもうと	younger sister
+何人	なんにん	how many people
