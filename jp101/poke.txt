@@ -1,21 +1,44 @@
-お嬢さん	おじょうさん	young lady/ daughter
-一緒に	いっしょに	together
-君	きみ	you; used by male speaker
-それとも	それとも	or/ either
-金	かね	money
-欲しい	ほしい	want/ wish
-結婚する	けっこんする	to marry
-ずっと	ずっと	by far/ all along/ the whole time
-ぼく	ぼく	I/ me (used by males)
-俺	おれ	I/ me [Used by men only. More casual and vulgar than watashi or boku.]
-座る	すわる	to sit; V1
-働く	はたらく	to work; V1
-ホームステイ	ホームステイ	homestay/ to stay with a host family
-住む	すむ	to live
-群馬	ぐんま	Gunma prefecture; area in Japan
-アシスタント	アシスタント	assistant
-先生	せんせい	teacher
-英語	えいご	English language
-日本語	にほんご	Japanese language
-かける	かける	to sit/ to hang
-引越し	ひっこし	moving/ changing residence
+動物	どうぶつ	animal
+家族	かぞく	family/ members of a family
+新鮮(な)	しんせん(な)	fresh;-na adjective
+刺身	さしみ	sliced raw fish/ Sashimi
+スマート(な)	すまーと(な)	slim/ smart/ stylish;-na adjective
+ハンサム	ハンサム	handsome; Adj(na)
+お入りください	おはいりください	Please come in.
+おじゃまします	おじゃまします	excuse me for disturbing (interrupting) you
+こんばんは	こんばんは	Good evening
+お上がりください	おあがりください	Please come in.
+お帰りなさい。	おかえりなさい。	Welcome back/home.
+ただいま	ただいま	Here I am/ I'm home!
+にぎやか(な)	にぎやか(な)	bustling/ busy/ lively;-na adjective
+父	ちち	father
+わざわざ	わざわざ	taking so much trouble
+もの	もの	thing/ object
+つまらない	つまらない	dull/ uninteresting/ boring;-i adjective
+申します	もうします	(humble form) to be called/ to say; -masu form
+おばあさん	おばあさん	grandmother
+お母さん	おかあさん	mother
+お父さん	おとうさん	father
+妹	いもうと	younger sister
+弟	おとうと	younger brother
+祖母	そぼ	grandmother
+母	はは	mother
+冷たい	つめたい	cold (to the touch)/ chilly/ icy;-i adjective
+皆さん	みなさん	everyone
+いかが	いかが	how (polite form of "dō")
+フルーツ	ふるーつ	fruit
+トースト	トースト	toast
+ヨーグルト	ヨーグルト	yoghurt/ yogurt
+シリアル	シリアル	cereal
+パン	パン	bread
+ご飯	ごはん	rice (cooked)/ meal
+朝ごはん	 あさごはん	breakfast
+いつも	いつも	always/ usually
+コーヒー	コーヒー	coffee
+お代わり	おかわり	second helping/ another cup
+苦い	にがい	bitter; -i adjective
+最高	さいこう	the most/ the extreme
+飲みます	のみます	to drink; masu form
+飲む	のむ	to drink; dictionary form
+行く	いく	to go; dictionary form
+こんぴらさん	こんぴらさん	The Kotohira Shrine (Mountain)
