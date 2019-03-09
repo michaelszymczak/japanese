@@ -1,11 +1,45 @@
-君	くん	name suffix often used for males younger or of lower status than you
-待つ	まつ	to wait; [class 1 verb]
-ちょっと	ちょっと	just/ a little
-テレビ	テレビ	TV
-リビング	リビング	living room
-いる	いる	to be (animate)/ to exist; class 2
-こちらこそ	こちらこそ	same here
-主人	しゅじん	one's husband
-病院	びょういん	hospital
-妻	つま	one's wife (humble)
-お客様	おきゃくさま	(honored) guest
+飲み物	のみもの	drink/ beverage
+ベランダ	ベランダ	balcony/ verandah
+灰皿	はいざら	ashtray
+タバコ	タバコ	cigarettes/ tobacco
+真面目	まじめ	diligent/ serious; -na adjective
+ビール	ビール	beer
+車	くるま	car
+もらう	もらう	to receive/ to get; V1
+すう	すう	to smoke/ to inhale; V1
+失礼します。	しつれいします。	Excuse me.
+人	ひと	person/ people
+やっぱり	やっぱり	also/ as I thought/ in spite of
+だめ（な）	だめ（な）	no good :-na adjective
+渋滞	じゅうたい	traffic jam
+道	みち	street/ way
+大会	たいかい	tournament/ rally/ convention
+公園	こうえん	park
+近く	ちかく	near
+花火	はなび	fireworks
+音	おと	sound/ noise
+もしかして	もしかして	perhaps/ possibly
+台所	だいどころ	kitchen
+呼ぶ	よぶ	to invite/ to call/ to call out;V1
+救急車	きゅうきゅうしゃ	ambulance
+警察	けいさつ	police
+探す	さがす	to search/ to look for; class 1
+連れてくる	つれてくる	to bring someone along
+母さん	かあさん	mother
+持ってくる	もってくる	bring
+おつまみ	おつまみ	snacks which go with alcohol
+強盗	ごうとう	robber
+教える	おしえる	to teach; V2
+プレーする	プレーする	to play
+下手	へた	unskilled/ poor at
+ゴルフ	ゴルフ	golf
+苦手	にがて	poor (at)/ weak (in)/ dislike( of)
+プロゴルファー	プロゴルファー	pro golfer
+上手	じょうず	skilled/ good at;Adj(na)
+有名	ゆうめい	famous ; Adj(na)
+歩く	あるく	to walk ; V1
+パター	パター	putter
+毎週	まいしゅう	every week
+週末	しゅうまつ	weekend
+ゴルフコース	ゴルフコース	golf course
+サラリーマン	サラリーマン	salary man/ company employee
