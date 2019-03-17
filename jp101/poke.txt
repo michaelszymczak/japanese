@@ -1,45 +1,22 @@
-飲み物	のみもの	drink/ beverage
-ベランダ	ベランダ	balcony/ verandah
-灰皿	はいざら	ashtray
-タバコ	タバコ	cigarettes/ tobacco
-真面目	まじめ	diligent/ serious; -na adjective
-ビール	ビール	beer
-車	くるま	car
-もらう	もらう	to receive/ to get; V1
-すう	すう	to smoke/ to inhale; V1
-失礼します。	しつれいします。	Excuse me.
-人	ひと	person/ people
-やっぱり	やっぱり	also/ as I thought/ in spite of
-だめ（な）	だめ（な）	no good :-na adjective
-渋滞	じゅうたい	traffic jam
-道	みち	street/ way
-大会	たいかい	tournament/ rally/ convention
-公園	こうえん	park
-近く	ちかく	near
-花火	はなび	fireworks
-音	おと	sound/ noise
-もしかして	もしかして	perhaps/ possibly
-台所	だいどころ	kitchen
-呼ぶ	よぶ	to invite/ to call/ to call out;V1
-救急車	きゅうきゅうしゃ	ambulance
-警察	けいさつ	police
-探す	さがす	to search/ to look for; class 1
-連れてくる	つれてくる	to bring someone along
-母さん	かあさん	mother
-持ってくる	もってくる	bring
-おつまみ	おつまみ	snacks which go with alcohol
-強盗	ごうとう	robber
-教える	おしえる	to teach; V2
-プレーする	プレーする	to play
-下手	へた	unskilled/ poor at
-ゴルフ	ゴルフ	golf
-苦手	にがて	poor (at)/ weak (in)/ dislike( of)
-プロゴルファー	プロゴルファー	pro golfer
-上手	じょうず	skilled/ good at;Adj(na)
-有名	ゆうめい	famous ; Adj(na)
-歩く	あるく	to walk ; V1
-パター	パター	putter
-毎週	まいしゅう	every week
-週末	しゅうまつ	weekend
-ゴルフコース	ゴルフコース	golf course
-サラリーマン	サラリーマン	salary man/ company employee
+多分	たぶん	maybe/ probably
+迎えに来る	むかえにくる	to come and pick someone up (V3)
+おめでとう。	おめでとう。	Congratulations.
+誕生日	たんじょうび	birthday
+今週	こんしゅう	this week
+食事	しょくじ	meal
+一緒	いっしょ	together
+楽しむ	たのしむ	to enjoy oneself; V1
+飲み放題	のみほうだい	all you can drink
+すごい	すごい	amazing/ great/ fabulous
+取る	とる	to take/ to pick up/ to get/ to pass;V1
+のぼる	のぼる	to climb
+富士山	ふじさん	Mt. Fuji
+連休	れんきゅう	consecutive holidays
+どう	どう	how
+いっぱい	いっぱい	full
+一人	ひとり	one person
+大体	だいたい	about/  approximately
+位	くらい／ぐらい	approximately/ about
+かけうどん	かけうどん	noodles in broth
+天ぷら	てんぷら	tempura/ deep-fried food
+どうして	どうして	why/ how
