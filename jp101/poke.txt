@@ -1,58 +1,25 @@
-チケット	チケット	ticket
-だいたい	だいたい	general
-でんしゃ	でんしゃ	train
-でんわばんごう	でんわ ばんごう	telephone number
-どちら	どちら	which
-どんな	どんな	what kind of
-いつ	いつ	when
-かわ	かわ	leather
-くらい（ぐらい）	くらい（ぐらい）	Kurai (Gurai)
-くろい	くろい 	black
-きょう	きょう	today
-まだ	まだ	still/ yet ; Adv.
-メモ	メモ	memorandum/ memo
-もう	もう	already/ anymore/ soon; Adv
-ナイロン	ナイロン	nylon
-なくします	なくします	to lose (masu-form)
-さいふ	さいふ	wallet/ purse
-すみません	すみません	Excuse me
-テレビ	テレビ	TV
-わかりました	わかりました	understood
-一回	いっかい	once/ one time
-一番前	いちばんまえ	in the front
-両	りょう	counter for train cars
-乗る	のる	to get on (a train)/ to take (a train); class 1 verb
-乗り換える	のりかえる	to transfer/ to change trains; class 2 
-事務所	じむしょ	office/ talent agency
-京成スカイライナー	けいせい スカイライナー	Keisei Skyliner
-京成成田駅	けいせいなりたえき	Narita station on Keisei Line
-京成線	けいせいせん	Keisei line
-位	くらい	about
-地下鉄	ちかてつ	subway
-多分	たぶん	perhaps/ probably
-安い	やすい	cheap/ inexpensive ; Adj(i)
-山手線	やまのてせん	Yamanote Line
-布	ぬの	cloth
-忘れ物センター	わすれものセンター	lost and found office
-新宿	しんじゅく	Shinjuku (a ward in Tokyo)
-方	ほう	direction/ somewhere in a certain direction
-日暮里	にっぽり	Nippori (place name)
-普通	ふつう	normal/ ordinary
-東京都	とうきょうと	Tokyo Metropolitan Area
-東銀座	ひがしぎんざ	Higashi Ginza; area in Tokyo
-歌舞伎座	かぶきざ	Kabuki-za; theater in Tokyo
-歩いて	あるいて	on foot/ by walking
-決める	きめる	to decide ; V2
-目	め	ordinal number suffix
-真っすぐ	まっすぐ	straight
-真ん中	まんなか	center
-老人	ろうじん	the elderly/ old person
-行く	いく	to go
-調べる	しらべる	to look up/ to check ; V2
-速い	はやい	fast/ quick; i-Adj
-連れて行く	つれていく	to take someone; V1
-降りる	おりる	to get off; class 2 verb
-電車	でんしゃ	electric train
-革	かわ	leather
-駅	えき	train station
-駅員	えきいん	station attendant
+くらい（ぐらい）	くらい（ぐらい）
+でんわばんごう	でんわ ばんごう
+すみません	すみません
+でんしゃ	でんしゃ
+ナイロン	ナイロン
+どんな	どんな
+きょう	きょう
+さいふ	さいふ
+テレビ	テレビ
+くろい	くろい 
+まだ	まだ
+メモ	メモ
+もう	もう
+一番前	いちばんまえ
+両	りょう
+事務所	じむしょ
+京成成田駅	けいせいなりたえき
+位	くらい
+布	ぬの
+忘れ物センター	わすれものセンター
+方	ほう
+目	め
+真っすぐ	まっすぐ
+真ん中	まんなか
+革	かわ
