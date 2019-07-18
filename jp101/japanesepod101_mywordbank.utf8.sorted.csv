@@ -4,11 +4,13 @@
 あります,あります,arimasu,to exist; masu form
 アシスタント,アシスタント,ashisutanto,assistant
 バーベキュー,バーベキュー,bābekyū,barbeque,noun
+バラ,バラ,bara,rose/ roses
 ベランダ,ベランダ,beranda,balcony/ verandah
 ビール,ビール,bīru,beer,noun
 ぼく,ぼく,boku,I/ me (used by males),pronoun
 チケット,チケット,chiketto,ticket
 チリ,チリ,Chiri,Chile,proper noun
+ちょうど,ちょうど,chōdo,just/ right/ exactly
 ちょっと,ちょっと,chotto,just/ a little
 だいたい,だいたい,daitai,general
 だめ（な）,だめ（な）,dame(na),no good :-na adjective
@@ -21,7 +23,9 @@
 どちら,どちら,Dochira,which
 どう,どう,dō,how,interrogative word
 どんな,どんな,donna,what kind of,interrogative word
+ドレス,ドレス,doresu,dress,noun
 どうして,どうして,dōshite,why/ how,adverb
+エレガント(な）,エレガント（な）,ereganto (na),elegant; na-Adj
 ファン,ファン,fan,fan,noun
 フルーツ,ふるーつ,furūtsu,fruit
 ガイド,ガイド,gaido,tour guide,noun
@@ -30,6 +34,7 @@
 ごろ,ごろ,goro,about/ around,noun
 ゴルフ,ゴルフ,gorufu,golf,noun
 ゴルフコース,ゴルフコース,gorufukōsu,golf course
+ございます,ございます,gozaimasu,formal form of the verb which means 'to have' or 'to be'
 はじめまして。,はじめまして。,Hajimemashite.,Nice to meet you.,expression
 ハンサム,ハンサム,hansamu(na),handsome; Adj(na),na-adjective
 ホームステイ,ホームステイ,hōmusutei,homestay/ to stay with a host family
@@ -64,6 +69,7 @@
 メール,メール,mēru,e-mail ,noun
 メートル,メートル,mētoru,meter,counter
 もう,もう,mō,already/ anymore/ soon; Adv
+もちろん,もちろん,mochiron,of course/ certainly
 もの,もの,mono,thing/ object
 もらう,もらう,morau,to receive/ to get; V1,verb
 もしかして,もしかして,moshikashite,perhaps/ possibly
@@ -82,6 +88,7 @@
 おつまみ,おつまみ,otsumami,snacks which go with alcohol
 パン,パン,pan,bread,noun
 パパ,パパ,papa,Papa
+パリ,パリ,Pari,Paris,noun
 パター,パター,patā,putter
 パーティー,パーティー,pātī,party,noun
 ぺらぺら,ぺらぺら,perapera,fluent
@@ -121,6 +128,7 @@
 やっぱり,やっぱり,yappari,also/ as I thought/ in spite of
 ヨーグルト,ヨーグルト,yōguruto,yoghurt/ yogurt
 ぜひ,ぜひ,zehi,certainly/ without fail,adverb
+ずつ,ずつ,zutsu,each,adverbial particle
 ずっと,ずっと,zutto,by far/ all along/ the whole time
 一人,ひとり,hitori,one person,noun
 一人,ひとり,hitori,one person,noun
@@ -134,6 +142,7 @@
 一緒,いっしょ,issho,together
 上がる,あがる,agaru,to enter/ to come up; V1
 お上がりください,おあがりください,Oagarikudasai.,Please come in.
+上品（な）,じょうひん（な）,jōhin (na),elegant/ refined/ polished; na-Adj
 上手,じょうず,jōzu,skilled/ good at;Adj(na),adjective
 下手（な）,へた（な）,heta(na),not good at/ not skillful
 下手,へた,heta,unskilled/ poor at
@@ -152,6 +161,7 @@
 京都,きょうと,Kyōto,Kyoto,proper noun
 人,ひと,hito,person/ people,noun
 人気,にんき,ninki,popularity
+人気,にんき,ninki,popular,noun
 人違い,ひとちがい,hito-chigai,mistaking one person for another/ mistaken identity
 今夜,こんや,konya,this evening/ tonight
 今年,ことし,kotoshi,this year
@@ -166,6 +176,7 @@
 休み,やすみ,yasumi,closed/ holiday/ day off
 会う,あう,au,to meet; V1,verb
 会社,かいしゃ,kaisha,company/ corporation
+似合う,にあう,niau,to suit/ to match; V1
 似顔絵,にがおえ,nigaoe,portrait/ likeness
 位,くらい,kurai,about
 位,くらい／ぐらい,kurai/gurai,approximately/ about,adverb
@@ -225,6 +236,7 @@
 大会,たいかい,taikai,tournament/ rally/ convention,noun
 大体,だいたい,daitai,about/  approximately,noun
 大変（な）,たいへん（な）,taihen(na),hard/ trouble ; na adjective
+大変,たいへん,taihen,very/ greatly; Adv,adverb
 大学院,だいがくいん,daigakuin,graduate school,noun
 天ぷら,てんぷら,tempura,tempura/ deep-fried food,noun
 天気,てんき,tenki,weather/ fine weather/
@@ -250,6 +262,7 @@
 布,ぬの,nuno,cloth,noun
 帰る,かえる,kaeru,to go home/ to return;V1
 お帰りなさい。,おかえりなさい。,O-kaerinasai.,Welcome back/home.
+店員,てんいん,ten'in,shop employee/ clerk
 座る,すわる,suwaru,to sit; V1
 引越し,ひっこし,hikkoshi,moving/ changing residence
 弟,おとうと,otōto,younger brother,noun
@@ -264,6 +277,7 @@
 成田市,なりたし,Narita-shi,Narita-city
 - 才,- さい,- sai,-years old
 持ってくる,もってくる,motte kuru,bring
+持って行く,もっていく,motte iku,to take/ to carry something away;V1
 探す,さがす,sagasu,to search/ to look for; class 1
 救急車,きゅうきゅうしゃ,kyūkyūsha,ambulance,noun
 教える,おしえる,oshieru,to teach/ to tell; V2
@@ -273,6 +287,8 @@
 方,ほう,hō,direction/ somewhere in a certain direction
 日暮里,にっぽり,Nippori,Nippori (place name)
 日本語,にほんご,nihongo,Japanese language
+旦那,だんな,danna,husband
+明るい,あかるい,akarui,cheerful/ bright;Adj(i)
 明月院,めいげついん,Meigetsuin,Meigetsuin temple
 映画,えいが,eiga,movie/ film
 昼間,ひるま,hiruma,during the day/ daytime
@@ -285,12 +301,14 @@
 最高,さいこう,saikō,the most/ the extreme
 有名,ゆうめい,yūmei,famous ; Adj(na),noun
 朝ごはん, あさごはん,asa-gohan,breakfast
+本,ほん/ぽん/ぼん,hon/pon/bon,counter for long/ slender objects,counter
 来る,くる,kuru,to come [group3]
 東京都,とうきょうと,Tōkyō-to,Tokyo Metropolitan Area
 東銀座,ひがしぎんざ,Higashi-Ginza,Higashi Ginza; area in Tokyo
 楽しむ,たのしむ,tanoshimu,to enjoy oneself; V1,verb
 次,つぎ,tsugi,next
 欲しい,ほしい,hoshii,want/ wish
+欲しい,ほしい,hoshii,want/ wish for; Adj(i)
 歌舞伎座,かぶきざ,Kabuki-za,Kabuki-za; theater in Tokyo
 歩いて,あるいて,aruite,on foot/ by walking
 歩き,あるき,aruki,a walk/ walking
@@ -315,8 +333,11 @@
 犬,いぬ,inu,dog,noun
 甘い,あまい,amai,sweet; i adjective
 生まれる,うまれる,umareru,to be born/ V2
+産む,うむ,umu,to give birth/ to bear;V1
+用,よう,yō,used for/ used by
 申します,もうします,mōshimasu,(humble form) to be called/ to say; -masu form,verb
 男,おとこ,otoko,man
+男の子,おとこのこ,otoko-no-ko,boy/ boys
 病気,びょうき,byōki,sickness/ illness
 病院,びょういん,byōin,hospital,noun
 皆さん,みなさん,mina-san,everyone
@@ -327,6 +348,7 @@
 真ん中,まんなか,mannaka,center,noun
 真面目,まじめ,majime,diligent/ serious; -na adjective
 着く,つく,tsuku,to arrive at/ to reach; V1
+着物,きもの,kimono,kimono,noun
 確かに,たしかに,tashika ni,surely/ certainly
 社会,しゃかい,shakai,society,noun
 社会学,しゃかいがく,shakaigaku,social science/ sociology
@@ -334,14 +356,21 @@
 紹介する,しょうかいする,shōkai suru,to introduce
 結婚する,けっこんする,kekkon suru,to marry
 結婚する,けっこんする,kekkon suru,to marry; -suru=class 3 verb
+結婚式,けっこんしき,kekkonshiki,marriage ceremony/ wedding
 給料日,きゅうりょうび,kyūryōbi,payday
 緊張する,きんちょうする,kinchō suru,to feel nervous,verb
 群馬,ぐんま,gunma,Gunma prefecture; area in Japan
 老人,ろうじん,rōjin,the elderly/ old person
 聞く,きく,Kiku,to listen/ to hear/ to ask; V1,verb
 自由時間,じゆうじかん,jiyū-jikan,free time
+色,いろ,iro,color,noun
 色々,いろいろ,Iroiro,various; Adj(na)
+オレンジ色,オレンジいろ,orenji iro,orange color
+花,はな,hana,flower,noun
+花屋,はなや,hana-ya,flower shop/ florist,noun
+花束,はなたば,hanataba,bunch of flowers/ bouquet
 花火,はなび,hanabi,fireworks,noun
+若い,わかい,wakai,young;Adj(i)
 苦い,にがい,nigai,bitter; -i adjective
 苦手,にがて,nigate,poor (at)/ weak (in)/ dislike( of)
 英語,えいご,eigo,English language
@@ -350,10 +379,12 @@
 行く,いく,iku,to go,verb
 もって行く,もって行く,motte iku ,to take
 見る,みる,miru,to watch/ to look/ to see ; V2,verb
+お見舞い,おみまい,o-mimai,calling on someone who is ill
 観光,かんこう,kankō ,sightseeing,noun
 角,かど,kado,corner,noun
 言う,いう,iu,to speak/ to say; V1
 試合,しあい,shiai,game/ match
+試着,しちゃく,shichaku, trying on clothes
 誕生日,たんじょうび,tanjōbi,birthday,noun
 誘う,さそう,sasou,to invite/ to ask someone (V1),verb
 調べる,しらべる,shiraberu,to look up/ to check ; V2
@@ -399,3 +430,4 @@
 駅員,えきいん,eki'in,station attendant
 驚く,おどろく,odoroku,to be surprised/ to be astonished; class 1 verb
 驚く,おどろく,odoroku,to be surprised/ to be astonished;V1
+黄色い,きいろい,kiiroi,yellow;Adj (i),adjective

@@ -7,6 +7,7 @@
 今度,こんど,Kondo,next time/ this time
 音,おと,Oto,sound/ noise,noun
 テレビ,テレビ,terebi,TV,noun
+ドレス,ドレス,doresu,dress,noun
 出る,でる,Deru,to leave; V2,verb
 すごい,すごい,Sugoi,amazing/ great/ fabulous,adjective
 色々,いろいろ,Iroiro,various; Adj(na)
@@ -21,6 +22,7 @@
 前,まえ,mae,front/ before
 公園,こうえん,kōen,park,noun
 決める,きめる,kimeru,to decide ; V2
+人気,にんき,ninki,popular,noun
 落ち着く,おちつく,ochitsuku,to calm down/ to feel at ease; V1
 海外,かいがい,kaigai,overseas
 死ぬ,しぬ,shinu,to die/ V1
@@ -40,8 +42,10 @@
 国,くに,kuni,country,noun
 返事,へんじ,henji,answer/ reply
 真ん中,まんなか,mannaka,center,noun
+ずつ,ずつ,zutsu,each,adverbial particle
 有名,ゆうめい,yūmei,famous ; Adj(na),noun
 働く,はたらく,hataraku,to work; V1,verb
+色,いろ,iro,color,noun
 急用,きゅうよう,kyūyō,urgent business
 一回,いっかい,ikkai,once/ one time
 タバコ,タバコ,tabako,cigarettes/ tobacco
@@ -61,10 +65,14 @@
 子供,こども,kodomo,child/ children,noun
 映画,えいが,eiga,movie/ film
 間違い,まちがい,machigai,mistake
+結婚式,けっこんしき,kekkonshiki,marriage ceremony/ wedding
+旦那,だんな,danna,husband
 食事,しょくじ,shokuji,meal,noun
 帰る,かえる,kaeru,to go home/ to return;V1
 主人,しゅじん,shujin,one's husband
+試着,しちゃく,shichaku, trying on clothes
 予定,よてい,yotei,plans/ arrangements/ schedules
+店員,てんいん,ten'in,shop employee/ clerk
 前に,まえに,mae ni,before,phrase
 お客様,おきゃくさま,o-kyaku-sama,(honored) guest
 京都,きょうと,Kyōto,Kyoto,proper noun
@@ -90,6 +98,7 @@
 でも,でも,demo,but/ however,conjunction
 どんな,どんな,donna,what kind of,interrogative word
 安い,やすい,yasui,cheap/ inexpensive ; Adj(i),adjective
+若い,わかい,wakai,young;Adj(i)
 渋滞,じゅうたい,jūtai,traffic jam,noun
 パーティー,パーティー,pātī,party,noun
 ホテル,ホテル,hoteru,hotel,noun
@@ -108,12 +117,14 @@
 残業,ざんぎょう,zangyō,overtime (work),noun
 赤ちゃん,あかちゃん,aka-chan,baby,noun
 花火,はなび,hanabi,fireworks,noun
+上品（な）,じょうひん（な）,jōhin (na),elegant/ refined/ polished; na-Adj
 もらう,もらう,morau,to receive/ to get; V1,verb
 誘う,さそう,sasou,to invite/ to ask someone (V1),verb
 最初,さいしょ,saisho,beginning/ first
 英語,えいご,eigo,English language
 日本語,にほんご,nihongo,Japanese language
 ぺらぺら,ぺらぺら,perapera,fluent
+着物,きもの,kimono,kimono,noun
 おじいちゃん,おじいちゃん,o-jii-chan,grandfather
 チケット,チケット,chiketto,ticket
 すう,すう,sū,to smoke/ to inhale; V1,verb
@@ -130,6 +141,7 @@
 着く,つく,tsuku,to arrive at/ to reach; V1
 多分,たぶん,tabun,perhaps/ probably
 妻,つま,tsuma,one's wife (humble)
+明るい,あかるい,akarui,cheerful/ bright;Adj(i)
 仕事,しごと,shigoto,job/ work/ occupation,noun
 遠い,とおい,tōi,far/ distant; Adj(i),adjective
 ただいま,ただいま,Tadaima,Here I am/ I'm home!
@@ -259,6 +271,7 @@
 とめる,とめる,tomeru,to stop; class 2
 妻,つま,tsuma,wife,noun
 紹介する,しょうかいする,shōkai suru,to introduce
+もちろん,もちろん,mochiron,of course/ certainly
 待つ,まつ,matsu,to wait; [class 1 verb]
 ベランダ,ベランダ,beranda,balcony/ verandah
 仕方がない,しかたがない,shikata ga nai,it can't be helped/ it's inevitable
@@ -280,6 +293,7 @@
 母,はは,haha,mother
 あら,あら,ara,oh/ ah,expression
 サラリーマン,サラリーマン,sararīman,salary man/ company employee
+欲しい,ほしい,hoshii,want/ wish for; Adj(i)
 犬,いぬ,inu,dog,noun
 いくつ,いくつ,ikutsu,how many/ how old
 今年,ことし,kotoshi,this year
@@ -292,6 +306,7 @@
 専攻,せんこう,senkō,major/ subject
 お客さん,おきゃくさん,o-kyaku-san,guest/ visitor/ customer
 救急車,きゅうきゅうしゃ,kyūkyūsha,ambulance,noun
+ちょうど,ちょうど,chōdo,just/ right/ exactly
 どう,どう,dō,how,interrogative word
 君,くん,kun,name suffix often used for males younger or of lower status than you,suffix
 リビング,リビング,ribingu,living room,noun
@@ -316,7 +331,14 @@
 京成線,けいせいせん,Keisei sen,Keisei line
 メモ,メモ,memo,memorandum/ memo
 まず,まず,mazu,first of all/ to start with
+産む,うむ,umu,to give birth/ to bear;V1
 退院,たいいん,taiin,leaving hospital
+用,よう,yō,used for/ used by
+ございます,ございます,gozaimasu,formal form of the verb which means 'to have' or 'to be'
+パリ,パリ,Pari,Paris,noun
+大変,たいへん,taihen,very/ greatly; Adv,adverb
+エレガント(な）,エレガント（な）,ereganto (na),elegant; na-Adj
+似合う,にあう,niau,to suit/ to match; V1
 観光,かんこう,kankō ,sightseeing,noun
 ガイド,ガイド,gaido,tour guide,noun
 北鎌倉 ,きたかまくら,Kitakamakura,Kitakamakura(name of a place)
@@ -352,15 +374,25 @@
 チリ,チリ,Chiri,Chile,proper noun
 いつ,いつ,itsu,when,interrogative word
 名前,なまえ,namae,name,noun
+花屋,はなや,hana-ya,flower shop/ florist,noun
+黄色い,きいろい,kiiroi,yellow;Adj (i),adjective
 すぐに,すぐに,sugu ni,immediately/ instantly; Adv,adjective
 ぜひ,ぜひ,zehi,certainly/ without fail,adverb
 よろしくお願いします,よろしくおねがいします,yoroshiku onegai shimasu,It's a pleasure to meet you.
 げんきですか,げんきですか,Genki desu ka.,How are you?
+花,はな,hana,flower,noun
+本,ほん/ぽん/ぼん,hon/pon/bon,counter for long/ slender objects,counter
 外,そと,soto,outside,noun
 見る,みる,miru,to watch/ to look/ to see ; V2,verb
 お姉ちゃん,おねえちゃん,o-nē-chan,older sister/ elder sister
 あいさつ,あいさつ,aisatsu,greeting
 達,たち,tachi,pluralizing suffix
+持って行く,もっていく,motte iku,to take/ to carry something away;V1
+お見舞い,おみまい,o-mimai,calling on someone who is ill
+男の子,おとこのこ,otoko-no-ko,boy/ boys
+花束,はなたば,hanataba,bunch of flowers/ bouquet
+バラ,バラ,bara,rose/ roses
+オレンジ色,オレンジいろ,orenji iro,orange color
 頃,ごろ,goro,around/ about; suffix
 昼間,ひるま,hiruma,during the day/ daytime
 お嬢ちゃん,おじょうちゃん,O-jō-chan,young lady/ miss
