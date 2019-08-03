@@ -82,6 +82,7 @@
 ちょっと,ちょっと,chotto,just/ a little
 何,なに,nani,what,interrogative word
 おばあちゃん,おばあちゃん,obāchan,grandma/ granny
+買う,かう,kau,to buy; V1
 すみません,すみません,sumimasen,Excuse me
 新宿,しんじゅく,shinjuku,Shinjuku (a ward in Tokyo)
 真っすぐ,まっすぐ,massugu,straight
@@ -133,14 +134,19 @@
 取る,とる,toru,to take/ to pick up/ to get/ to pass;V1
 たくさん,たくさん,takusan,many/ a lot/ much
 出発,しゅっぱつ,shuppatsu,departure,noun
+下,した,shita,under/below/ smaller
+上,うえ,ue,up/above/ bigger
 地図,ちず,chizu,map,noun
 近く,ちかく,chikaku,near,noun
+ちょうどいい,ちょうどいい,chōdo ii,just right/ just perfect
 車,くるま,kuruma,car,noun
 つまらない,つまらない,tsumaranai,boring/ uninteresting; -i adjective
+サイズ,サイズ,saizu,size,noun
 警察,けいさつ,keisatsu,police
 着く,つく,tsuku,to arrive at/ to reach; V1
 多分,たぶん,tabun,perhaps/ probably
 妻,つま,tsuma,one's wife (humble)
+どうして,どうして,dōshite,why/ for what reason
 明るい,あかるい,akarui,cheerful/ bright;Adj(i)
 仕事,しごと,shigoto,job/ work/ occupation,noun
 遠い,とおい,tōi,far/ distant; Adj(i),adjective
@@ -273,6 +279,7 @@
 紹介する,しょうかいする,shōkai suru,to introduce
 もちろん,もちろん,mochiron,of course/ certainly
 待つ,まつ,matsu,to wait; [class 1 verb]
+くつ,くつ,kutsu,shoes/ footwear,noun
 ベランダ,ベランダ,beranda,balcony/ verandah
 仕方がない,しかたがない,shikata ga nai,it can't be helped/ it's inevitable
 プロボクサー,プロボクサー,purobokusā,professional boxer
@@ -305,6 +312,7 @@
 パパ,パパ,papa,Papa
 専攻,せんこう,senkō,major/ subject
 お客さん,おきゃくさん,o-kyaku-san,guest/ visitor/ customer
+サイン,サイン,sain,autograph/ signature
 救急車,きゅうきゅうしゃ,kyūkyūsha,ambulance,noun
 ちょうど,ちょうど,chōdo,just/ right/ exactly
 どう,どう,dō,how,interrogative word
@@ -326,6 +334,7 @@
 強盗,ごうとう,gōtō,robber
 自由時間,じゆうじかん,jiyū-jikan,free time
 あります,あります,arimasu,to exist; masu form
+あなた,あなた,Anata,you,pronoun
 教える,おしえる,oshieru,to teach/ to tell; V2
 京成成田駅,けいせいなりたえき,Keisei Narita eki,Narita station on Keisei Line
 京成線,けいせいせん,Keisei sen,Keisei line
@@ -339,6 +348,11 @@
 大変,たいへん,taihen,very/ greatly; Adv,adverb
 エレガント(な）,エレガント（な）,ereganto (na),elegant; na-Adj
 似合う,にあう,niau,to suit/ to match; V1
+軽い,かるい,karui,light; i-Adj
+はく,はく  ,haku,to put on shoes/footwear; V1
+出る,でる,deru,to appear/ to leave/ to exit; V2
+悲しい,かなしい,kanashii,sad ; Adj(i)
+書く,かく,kaku,to write; V1
 観光,かんこう,kankō ,sightseeing,noun
 ガイド,ガイド,gaido,tour guide,noun
 北鎌倉 ,きたかまくら,Kitakamakura,Kitakamakura(name of a place)
@@ -387,6 +401,7 @@
 お姉ちゃん,おねえちゃん,o-nē-chan,older sister/ elder sister
 あいさつ,あいさつ,aisatsu,greeting
 達,たち,tachi,pluralizing suffix
+すそ,すそ,suso,cuff/ (skirt) hem
 持って行く,もっていく,motte iku,to take/ to carry something away;V1
 お見舞い,おみまい,o-mimai,calling on someone who is ill
 男の子,おとこのこ,otoko-no-ko,boy/ boys
@@ -413,6 +428,7 @@
 驚く,おどろく,odoroku,to be surprised/ to be astonished;V1
 似顔絵,にがおえ,nigaoe,portrait/ likeness
 直す,なおす,naosu,to fix/ to correct;V1
+試着する,しちゃくする,shichaku suru,try on,verb
 きょう,きょう,kyō,today,noun
 でんしゃ,でんしゃ,densha,train,noun
 たのしい,たのしい,tanoshii,fun/ amusing; Adj (i),adjective
@@ -425,6 +441,9 @@
 方,ほう,hō,direction/ somewhere in a certain direction
 忘れ物センター,わすれものセンター,wasuremono sentā,lost and found office
 布,ぬの,nuno,cloth,noun
+きつい,きつい,kitsui,tight,i-adjective
+ゆるい,ゆるい,yurui,loose,adjective
+裾上げ,すそあげ,susoage,hem up
 気にしない,きにしない,ki ni shinai,Don't worry.
 一人っ子,ひとりっこ,hitorikko,only child,noun
 なくします,なくします,nakushimasu,to lose (masu-form),verb

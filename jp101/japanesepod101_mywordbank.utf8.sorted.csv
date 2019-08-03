@@ -1,4 +1,5 @@
 あいさつ,あいさつ,aisatsu,greeting
+あなた,あなた,Anata,you,pronoun
 あら,あら,ara,oh/ ah,expression
 あれ？,あれ？,Are?,Huh? Hmm?
 あります,あります,arimasu,to exist; masu form
@@ -10,6 +11,7 @@
 ぼく,ぼく,boku,I/ me (used by males),pronoun
 チケット,チケット,chiketto,ticket
 チリ,チリ,Chiri,Chile,proper noun
+ちょうどいい,ちょうどいい,chōdo ii,just right/ just perfect
 ちょうど,ちょうど,chōdo,just/ right/ exactly
 ちょっと,ちょっと,chotto,just/ a little
 だいたい,だいたい,daitai,general
@@ -24,6 +26,7 @@
 どう,どう,dō,how,interrogative word
 どんな,どんな,donna,what kind of,interrogative word
 ドレス,ドレス,doresu,dress,noun
+どうして,どうして,dōshite,why/ for what reason
 どうして,どうして,dōshite,why/ how,adverb
 エレガント(な）,エレガント（な）,ereganto (na),elegant; na-Adj
 ファン,ファン,fan,fan,noun
@@ -36,6 +39,7 @@
 ゴルフコース,ゴルフコース,gorufukōsu,golf course
 ございます,ございます,gozaimasu,formal form of the verb which means 'to have' or 'to be'
 はじめまして。,はじめまして。,Hajimemashite.,Nice to meet you.,expression
+はく,はく  ,haku,to put on shoes/footwear; V1
 ハンサム,ハンサム,hansamu(na),handsome; Adj(na),na-adjective
 ホームステイ,ホームステイ,hōmusutei,homestay/ to stay with a host family
 ホテル,ホテル,hoteru,hotel,noun
@@ -51,6 +55,7 @@
 かける,かける,kakeru,to sit/ to hang,verb
 かけうどん,かけうどん,kake udon,noodles in broth
 かわ,かわ,kawa,leather,noun
+きつい,きつい,kitsui,tight,i-adjective
 こちらこそ,こちらこそ,kochira koso,same here
 こちら,こちら,kochira,this person/ this direction,pronoun
 コーヒー,コーヒー,kōhī,coffee,noun
@@ -61,6 +66,7 @@
 くもり,くもり,kumori,cloudy,noun
 くらい（ぐらい）,くらい（ぐらい）,Kurai (Gurai),Kurai (Gurai)
 くろい,くろい ,kuroi,black,i-adjective
+くつ,くつ,kutsu,shoes/ footwear,noun
 きょう,きょう,kyō,today,noun
 まだ,まだ,mada,still/ yet ; Adv.,adverb
 まっすぐ,まっすぐ,massugu,straight,na-adjective
@@ -100,6 +106,8 @@
 ロビー,ロビー,robī ,lobby/ lounge
 ロシア,ロシア,Roshia,Russia,proper noun
 さいふ,さいふ,saifu,wallet/ purse,noun
+サイン,サイン,sain,autograph/ signature
+サイズ,サイズ,saizu,size,noun
 サプライズ,サプライズ,sapuraizu,surprise
 サラリーマン,サラリーマン,sararīman,salary man/ company employee
 シンガポール,シンガポール,Shingapōru,Singapore,noun
@@ -111,6 +119,7 @@
 スマート(な),すまーと(な),sumāto(na),slim/ smart/ stylish;-na adjective
 すみません,すみません,sumimasen,Excuse me
 すみません,すみません,Sumimasen,Excuse me
+すそ,すそ,suso,cuff/ (skirt) hem
 すう,すう,sū,to smoke/ to inhale; V1,verb
 タバコ,タバコ,tabako,cigarettes/ tobacco
 ただいま,ただいま,Tadaima,Here I am/ I'm home!
@@ -127,6 +136,7 @@
 ﻿Word,Kana,Romaji,English,Class
 やっぱり,やっぱり,yappari,also/ as I thought/ in spite of
 ヨーグルト,ヨーグルト,yōguruto,yoghurt/ yogurt
+ゆるい,ゆるい,yurui,loose,adjective
 ぜひ,ぜひ,zehi,certainly/ without fail,adverb
 ずつ,ずつ,zutsu,each,adverbial particle
 ずっと,ずっと,zutto,by far/ all along/ the whole time
@@ -142,8 +152,10 @@
 一緒,いっしょ,issho,together
 上がる,あがる,agaru,to enter/ to come up; V1
 お上がりください,おあがりください,Oagarikudasai.,Please come in.
+上,うえ,ue,up/above/ bigger
 上品（な）,じょうひん（な）,jōhin (na),elegant/ refined/ polished; na-Adj
 上手,じょうず,jōzu,skilled/ good at;Adj(na),adjective
+下,した,shita,under/below/ smaller
 下手（な）,へた（な）,heta(na),not good at/ not skillful
 下手,へた,heta,unskilled/ poor at
 両,りょう,ryō,counter for train cars
@@ -199,6 +211,7 @@
 内緒,ないしょ,naisho,secrecy/ secret,noun
 円覚寺,えんがくじ,Engaku-ji,Engakuji temple
 冷たい,つめたい,tsumetai,cold (to the touch)/ chilly/ icy;-i adjective
+出る,でる,deru,to appear/ to leave/ to exit; V2
 出る,でる,Deru,to leave; V2,verb
 出張,しゅっちょう,shucchō,business trip,noun
 出発,しゅっぱつ,shuppatsu,departure,noun
@@ -274,6 +287,7 @@
 怖い,こわい,kowai,scary/ frightening; Adj(i)
 急に,きゅうに,kyūni,suddenly/ all on a sudden; Adv.
 急用,きゅうよう,kyūyō,urgent business
+悲しい,かなしい,kanashii,sad ; Adj(i)
 成田市,なりたし,Narita-shi,Narita-city
 - 才,- さい,- sai,-years old
 持ってくる,もってくる,motte kuru,bring
@@ -296,6 +310,7 @@
 普通,ふつう,futsū,normal/ ordinary,na-adjective
 暗い,くらい,kurai,dark/ gloomy; Adj(i)
 曲がる,まがる,magaru,to turn; class 1 verb
+書く,かく,kaku,to write; V1
 最低,さいてい,saitei,lowest/ worst/ disgusting
 最初,さいしょ,saisho,beginning/ first
 最高,さいこう,saikō,the most/ the extreme
@@ -378,21 +393,25 @@
 行く,いく,iku,to go; dictionary form
 行く,いく,iku,to go,verb
 もって行く,もって行く,motte iku ,to take
+裾上げ,すそあげ,susoage,hem up
 見る,みる,miru,to watch/ to look/ to see ; V2,verb
 お見舞い,おみまい,o-mimai,calling on someone who is ill
 観光,かんこう,kankō ,sightseeing,noun
 角,かど,kado,corner,noun
 言う,いう,iu,to speak/ to say; V1
 試合,しあい,shiai,game/ match
+試着する,しちゃくする,shichaku suru,try on,verb
 試着,しちゃく,shichaku, trying on clothes
 誕生日,たんじょうび,tanjōbi,birthday,noun
 誘う,さそう,sasou,to invite/ to ask someone (V1),verb
 調べる,しらべる,shiraberu,to look up/ to check ; V2
 警察,けいさつ,keisatsu,police
+買う,かう,kau,to buy; V1
 赤ちゃん,あかちゃん,aka-chan,baby,noun
 起きる,おきる,okiru,to wake up/ to get up; V2,verb
 足立区,あだちく,Adachi ku,Adachi ward
 車,くるま,kuruma,car,noun
+軽い,かるい,karui,light; i-Adj
 迎えに来る,むかえにくる,mukae ni kuru,to come and pick someone up (V3)
 近く,ちかく,chikaku,near,noun
 返事,へんじ,henji,answer/ reply
