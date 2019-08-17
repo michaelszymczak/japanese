@@ -95,6 +95,7 @@
 パン,パン,pan,bread,noun
 パパ,パパ,papa,Papa
 パリ,パリ,Pari,Paris,noun
+パーセント,パーセント,pāsento,percent/ percentage
 パター,パター,patā,putter
 パーティー,パーティー,pātī,party,noun
 ぺらぺら,ぺらぺら,perapera,fluent
@@ -123,6 +124,7 @@
 すう,すう,sū,to smoke/ to inhale; V1,verb
 タバコ,タバコ,tabako,cigarettes/ tobacco
 ただいま,ただいま,Tadaima,Here I am/ I'm home!
+タイムセール,タイムセール,taimu sēru,special offers available for a limited time (of the day)
 たくさん,たくさん,takusan,many/ a lot/ much
 たのしい,たのしい,tanoshii,fun/ amusing; Adj (i),adjective
 テレビ,テレビ,terebi,TV,noun
@@ -136,6 +138,7 @@
 ﻿Word,Kana,Romaji,English,Class
 やっぱり,やっぱり,yappari,also/ as I thought/ in spite of
 ヨーグルト,ヨーグルト,yōguruto,yoghurt/ yogurt
+より,より,yori,from
 ゆるい,ゆるい,yurui,loose,adjective
 ぜひ,ぜひ,zehi,certainly/ without fail,adverb
 ずつ,ずつ,zutsu,each,adverbial particle
@@ -147,6 +150,7 @@
 一回,いっかい,ikkai,once/ one time
 一時間,いちじかん,ichi-jikan,one hour
 一杯,いっぱい,ippai,a cup of ../ a drink
+一番,いちばん,ichi-ban,best/ first/ most,noun
 一番前,いちばんまえ,ichi-ban mae,in the front
 一緒に,いっしょに,issho ni,together
 一緒,いっしょ,issho,together
@@ -163,6 +167,7 @@
 久しぶり。,ひさしぶり。,Hisashiburi.,Long time no see. (informal),expression
 乗る,のる,noru,to get on (a train)/ to take (a train); class 1 verb
 乗り換える,のりかえる,norikaeru,to transfer/ to change trains; class 2 
+乳製品,にゅうせいひん,nyūseihin,dairy products
 予定,よてい,yotei,plan,noun
 予定,よてい,yotei,plans/ arrangements/ schedules
 事務所,じむしょ,jimusho,office/ talent agency
@@ -218,11 +223,14 @@
 出身,しゅっしん,shusshin,person's origin/ hometown
 分かります,わかります,wakarimasu,to understand/ to grasp/ to know; masu form
 分かる,わかる,wakaru,to understand/ to grasp/ to know;V1
+列,れつ,retsu,row,noun
+利用,りよう,riyō,use/ utilization,noun
 刺身,さしみ,sashimi,sliced raw fish/ Sashimi
 前,まえ,mae,front/ before
 前に,まえに,mae ni,before,phrase
 動物,どうぶつ,dōbutsu,animal
 勤める,つとめる,tsutomeru,to work for/ to serve/ to fill a post;V2
+包む,つつむ,tsutsumu,to wrap up/ to dress in
 北鎌倉 ,きたかまくら,Kitakamakura,Kitakamakura(name of a place)
 千葉県,ちばけん,Chiba-ken,Chiba prefecture (Kanto region)
 双子,ふたご,futago,twins/ twin,noun
@@ -254,6 +262,7 @@
 天ぷら,てんぷら,tempura,tempura/ deep-fried food,noun
 天気,てんき,tenki,weather/ fine weather/
 失礼します。,しつれいします。,Shitsurei shimasu.,Excuse me.
+奥,おく,oku,back
 妹,いもうと,imōto,younger sister,noun
 妹,いもうと,imōto,younger sister,noun
 妻,つま,tsuma,one's wife (humble)
@@ -277,6 +286,7 @@
 お帰りなさい。,おかえりなさい。,O-kaerinasai.,Welcome back/home.
 店員,てんいん,ten'in,shop employee/ clerk
 座る,すわる,suwaru,to sit; V1
+-引き,-びき,-biki,-off (price reduction) ;suffix
 引越し,ひっこし,hikkoshi,moving/ changing residence
 弟,おとうと,otōto,younger brother,noun
 強盗,ごうとう,gōtō,robber
@@ -289,6 +299,7 @@
 急用,きゅうよう,kyūyō,urgent business
 悲しい,かなしい,kanashii,sad ; Adj(i)
 成田市,なりたし,Narita-shi,Narita-city
+手前,てまえ,temae,front/ one's face/ apprearance
 - 才,- さい,- sai,-years old
 持ってくる,もってくる,motte kuru,bring
 持って行く,もっていく,motte iku,to take/ to carry something away;V1
@@ -305,6 +316,7 @@
 明るい,あかるい,akarui,cheerful/ bright;Adj(i)
 明月院,めいげついん,Meigetsuin,Meigetsuin temple
 映画,えいが,eiga,movie/ film
+是非,ぜひ,zehi,certainly/ by all means/ please
 昼間,ひるま,hiruma,during the day/ daytime
 時間,じかん,jikan,time,noun
 普通,ふつう,futsū,normal/ ordinary,na-adjective
@@ -353,6 +365,7 @@
 申します,もうします,mōshimasu,(humble form) to be called/ to say; -masu form,verb
 男,おとこ,otoko,man
 男の子,おとこのこ,otoko-no-ko,boy/ boys
+番目,ばんめ,banme,cardinal number suffix
 病気,びょうき,byōki,sickness/ illness
 病院,びょういん,byōin,hospital,noun
 皆さん,みなさん,mina-san,everyone
@@ -368,6 +381,7 @@
 社会,しゃかい,shakai,society,noun
 社会学,しゃかいがく,shakaigaku,social science/ sociology
 祖母,そぼ,sobo,grandmother
+立ち寄る,たちよる,tachiyoru,to stop by; V1
 紹介する,しょうかいする,shōkai suru,to introduce
 結婚する,けっこんする,kekkon suru,to marry
 結婚する,けっこんする,kekkon suru,to marry; -suru=class 3 verb
@@ -392,6 +406,7 @@
 落ち着く,おちつく,ochitsuku,to calm down/ to feel at ease; V1
 行く,いく,iku,to go; dictionary form
 行く,いく,iku,to go,verb
+行う,おこなう,okonau,to perform/ to do/ to conduct/ to carry out;V1
 もって行く,もって行く,motte iku ,to take
 裾上げ,すそあげ,susoage,hem up
 見る,みる,miru,to watch/ to look/ to see ; V2,verb
@@ -407,6 +422,7 @@
 調べる,しらべる,shiraberu,to look up/ to check ; V2
 警察,けいさつ,keisatsu,police
 買う,かう,kau,to buy; V1
+お買い得,おかいどく,okaidoku,bargain/ good buy/ good deal/ best buy
 赤ちゃん,あかちゃん,aka-chan,baby,noun
 起きる,おきる,okiru,to wake up/ to get up; V2,verb
 足立区,あだちく,Adachi ku,Adachi ward

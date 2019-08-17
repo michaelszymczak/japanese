@@ -32,6 +32,7 @@
 大会,たいかい,taikai,tournament/ rally/ convention,noun
 急に,きゅうに,kyūni,suddenly/ all on a sudden; Adv.
 老人,ろうじん,rōjin,the elderly/ old person
+乳製品,にゅうせいひん,nyūseihin,dairy products
 誕生日,たんじょうび,tanjōbi,birthday,noun
 はじめまして。,はじめまして。,Hajimemashite.,Nice to meet you.,expression
 メール,メール,mēru,e-mail ,noun
@@ -42,7 +43,9 @@
 国,くに,kuni,country,noun
 返事,へんじ,henji,answer/ reply
 真ん中,まんなか,mannaka,center,noun
+一番,いちばん,ichi-ban,best/ first/ most,noun
 ずつ,ずつ,zutsu,each,adverbial particle
+是非,ぜひ,zehi,certainly/ by all means/ please
 有名,ゆうめい,yūmei,famous ; Adj(na),noun
 働く,はたらく,hataraku,to work; V1,verb
 色,いろ,iro,color,noun
@@ -80,7 +83,9 @@
 降りる,おりる,oriru,to get off; class 2 verb
 駅,えき,eki,train station,noun
 ちょっと,ちょっと,chotto,just/ a little
+番目,ばんめ,banme,cardinal number suffix
 何,なに,nani,what,interrogative word
+立ち寄る,たちよる,tachiyoru,to stop by; V1
 おばあちゃん,おばあちゃん,obāchan,grandma/ granny
 買う,かう,kau,to buy; V1
 すみません,すみません,sumimasen,Excuse me
@@ -103,6 +108,7 @@
 渋滞,じゅうたい,jūtai,traffic jam,noun
 パーティー,パーティー,pātī,party,noun
 ホテル,ホテル,hoteru,hotel,noun
+利用,りよう,riyō,use/ utilization,noun
 夜,よる,yoru,evening/ night
 地下鉄,ちかてつ,chikatetsu,subway,noun
 駅員,えきいん,eki'in,station attendant
@@ -126,6 +132,7 @@
 日本語,にほんご,nihongo,Japanese language
 ぺらぺら,ぺらぺら,perapera,fluent
 着物,きもの,kimono,kimono,noun
+パーセント,パーセント,pāsento,percent/ percentage
 おじいちゃん,おじいちゃん,o-jii-chan,grandfather
 チケット,チケット,chiketto,ticket
 すう,すう,sū,to smoke/ to inhale; V1,verb
@@ -199,6 +206,7 @@
 事務所,じむしょ,jimusho,office/ talent agency
 デート,デート,dēto,date,noun
 食事,しょくじ,shokuji,meal,noun
+列,れつ,retsu,row,noun
 います,います,imasu,to be (animate)/ to exist; -masu form
 いる,いる,iru,to be (animate)/ to exist; class 2
 いっぱい,いっぱい,ippai,full
@@ -229,6 +237,7 @@
 ファン,ファン,fan,fan,noun
 乗る,のる,noru,to get on (a train)/ to take (a train); class 1 verb
 乗り換える,のりかえる,norikaeru,to transfer/ to change trains; class 2 
+手前,てまえ,temae,front/ one's face/ apprearance
 生まれる,うまれる,umareru,to be born/ V2
 もしかして,もしかして,moshikashite,perhaps/ possibly
 会社,かいしゃ,kaisha,company/ corporation
@@ -314,6 +323,7 @@
 お客さん,おきゃくさん,o-kyaku-san,guest/ visitor/ customer
 サイン,サイン,sain,autograph/ signature
 救急車,きゅうきゅうしゃ,kyūkyūsha,ambulance,noun
+包む,つつむ,tsutsumu,to wrap up/ to dress in
 ちょうど,ちょうど,chōdo,just/ right/ exactly
 どう,どう,dō,how,interrogative word
 君,くん,kun,name suffix often used for males younger or of lower status than you,suffix
@@ -429,6 +439,11 @@
 似顔絵,にがおえ,nigaoe,portrait/ likeness
 直す,なおす,naosu,to fix/ to correct;V1
 試着する,しちゃくする,shichaku suru,try on,verb
+より,より,yori,from
+タイムセール,タイムセール,taimu sēru,special offers available for a limited time (of the day)
+行う,おこなう,okonau,to perform/ to do/ to conduct/ to carry out;V1
+お買い得,おかいどく,okaidoku,bargain/ good buy/ good deal/ best buy
+-引き,-びき,-biki,-off (price reduction) ;suffix
 きょう,きょう,kyō,today,noun
 でんしゃ,でんしゃ,densha,train,noun
 たのしい,たのしい,tanoshii,fun/ amusing; Adj (i),adjective
@@ -437,6 +452,7 @@
 両,りょう,ryō,counter for train cars
 ナイロン,ナイロン,nairon,nylon,noun
 目,め,me ,ordinal number suffix
+奥,おく,oku,back
 一番前,いちばんまえ,ichi-ban mae,in the front
 方,ほう,hō,direction/ somewhere in a certain direction
 忘れ物センター,わすれものセンター,wasuremono sentā,lost and found office
