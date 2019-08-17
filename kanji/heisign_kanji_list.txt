@@ -824,7 +824,7 @@
 824	銃
 825	硫
 826	流
-827	允
+827	允	“License To Kill” with his deadly elbows and human legs
 828	唆
 829	出
 830	山
