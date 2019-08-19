@@ -10,8 +10,11 @@
 ドレス,ドレス,doresu,dress,noun
 出る,でる,Deru,to leave; V2,verb
 すごい,すごい,Sugoi,amazing/ great/ fabulous,adjective
+カレー,カレー,Karē,curry,noun
 色々,いろいろ,Iroiro,various; Adj(na)
 今週,こんしゅう,konshū,this week,noun
+お客様,おきゃくさま,o-kyaku-sama,customer,noun
+注文,ちゅうもん,chūmon,order,noun
 呼ぶ,よぶ,yobu,to call [class 1]
 聞く,きく,Kiku,to listen/ to hear/ to ask; V1,verb
 こちらこそ,こちらこそ,kochira koso,same here
@@ -47,6 +50,7 @@
 ずつ,ずつ,zutsu,each,adverbial particle
 是非,ぜひ,zehi,certainly/ by all means/ please
 有名,ゆうめい,yūmei,famous ; Adj(na),noun
+韓国,かんこく,kankoku,Korea
 働く,はたらく,hataraku,to work; V1,verb
 色,いろ,iro,color,noun
 急用,きゅうよう,kyūyō,urgent business
@@ -60,8 +64,10 @@
 集まる,あつまる,atsumaru,to gather; [class 1 verb]
 ロシア,ロシア,Roshia,Russia,proper noun
 調べる,しらべる,shiraberu,to look up/ to check ; V2
+コーヒー,コーヒー,kōhī,coffee,noun
 言う,いう,iu,to speak/ to say; V1
 先生,せんせい,sensei,teacher,noun
+エビ,エビ,ebi,shrimp/ prawn/ lobster,noun
 まだ,まだ,mada,still/ yet ; Adv.,adverb
 寝る,ねる,neru,to go to bed/ to sleep;V2
 出張,しゅっちょう,shucchō,business trip,noun
@@ -79,6 +85,7 @@
 前に,まえに,mae ni,before,phrase
 お客様,おきゃくさま,o-kyaku-sama,(honored) guest
 京都,きょうと,Kyōto,Kyoto,proper noun
+お疲れ様,おつかれさま,otsukaresama,thank you/ hello (greeting at work)/ good work,phrase
 道,みち,michi,street/ way
 降りる,おりる,oriru,to get off; class 2 verb
 駅,えき,eki,train station,noun
@@ -86,6 +93,7 @@
 番目,ばんめ,banme,cardinal number suffix
 何,なに,nani,what,interrogative word
 立ち寄る,たちよる,tachiyoru,to stop by; V1
+食べ放題,たべほうだい,tabehōdai,all-you-can-eat,phrase
 おばあちゃん,おばあちゃん,obāchan,grandma/ granny
 買う,かう,kau,to buy; V1
 すみません,すみません,sumimasen,Excuse me
@@ -116,12 +124,15 @@
 今夜,こんや,konya,this evening/ tonight
 もう,もう,mō,already/ anymore/ soon; Adv
 だめ（な）,だめ（な）,dame(na),no good :-na adjective
+ロビー,ロビー,robī,lobby,noun
 通う,かよう,kayou,to go somewhere frequently/ to commute
+珍しい,めずらしい,mezurashii,unusual/ rare
 いくら,いくら,ikura,how much (does it cost)?
 勤める,つとめる,tsutomeru,to work for/ to serve/ to fill a post;V2
 病院,びょういん,byōin,hospital,noun
 連れて行く,つれていく,tsurete iku,to take someone; V1
 残業,ざんぎょう,zangyō,overtime (work),noun
+料理,りょうり,ryōri,cooking/ cookery/ cuisine
 赤ちゃん,あかちゃん,aka-chan,baby,noun
 花火,はなび,hanabi,fireworks,noun
 上品（な）,じょうひん（な）,jōhin (na),elegant/ refined/ polished; na-Adj
@@ -246,6 +257,7 @@
 確かに,たしかに,tashika ni,surely/ certainly
 人,ひと,hito,person/ people,noun
 いつも,いつも,itsumo,always/ usually
+ごちそうさま。,ごちそうさま。,Gochisōsama.,I really enjoyed the meal. Thank you for the meal.
 普通,ふつう,futsū,normal/ ordinary,na-adjective
 お嬢さん,おじょうさん,o-jō-san,young lady/ daughter,noun
 俺,おれ,ore,I/ me [Used by men only. More casual and vulgar than watashi or boku.]
@@ -272,6 +284,7 @@
 呼ぶ,よぶ,yobu,to invite/ to call/ to call out;V1
 今週,こんしゅう,konshū,this week,noun
 飲み物,のみもの,nomimono,drink/ beverage,noun
+紅茶,こうちゃ,kōcha,black/Western tea
 コンビニ,コンビニ　,konbini,convenience store
 角,かど,kado,corner,noun
 曲がる,まがる,magaru,to turn; class 1 verb
@@ -389,13 +402,23 @@
 東銀座,ひがしぎんざ,Higashi-Ginza,Higashi Ginza; area in Tokyo
 飲み放題,のみほうだい,nomihōdai,all you can drink
 楽しむ,たのしむ,tanoshimu,to enjoy oneself; V1,verb
+昼飯,ひるめし,hirumeshi,lunch
+辛い,からい,karai,spicy/ hot;Adj (i)
 外国語,がいこくご,gaigokugo,foreign language,noun
 双子,ふたご,futago,twins/ twin,noun
 病気,びょうき,byōki,sickness/ illness
+チキン,チキン,chikin,chicken
+セット,セット,setto,set (meal)
+ナン,ナン,nan,nan (type of bread)
+ライス,ライス,raisu,rice,noun
+ラッシー,ラッシー,rassī,lassi (yogurt drink)
 迎えに来る,むかえにくる,mukae ni kuru,to come and pick someone up (V3)
+十五分後,じゅうごふんご,jūgo-fun-go,in 15 minutes
 シンガポール,シンガポール,Shingapōru,Singapore,noun
 ポルトガル,ポルトガル,Porutogaru,Portugal,proper noun
 チリ,チリ,Chiri,Chile,proper noun
+おごる,おごる,ogoru,to treat; V1
+後,ご,go,later/ after
 いつ,いつ,itsu,when,interrogative word
 名前,なまえ,namae,name,noun
 花屋,はなや,hana-ya,flower shop/ florist,noun

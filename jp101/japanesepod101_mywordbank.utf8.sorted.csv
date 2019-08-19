@@ -10,6 +10,7 @@
 ビール,ビール,bīru,beer,noun
 ぼく,ぼく,boku,I/ me (used by males),pronoun
 チケット,チケット,chiketto,ticket
+チキン,チキン,chikin,chicken
 チリ,チリ,Chiri,Chile,proper noun
 ちょうどいい,ちょうどいい,chōdo ii,just right/ just perfect
 ちょうど,ちょうど,chōdo,just/ right/ exactly
@@ -28,11 +29,13 @@
 ドレス,ドレス,doresu,dress,noun
 どうして,どうして,dōshite,why/ for what reason
 どうして,どうして,dōshite,why/ how,adverb
+エビ,エビ,ebi,shrimp/ prawn/ lobster,noun
 エレガント(な）,エレガント（な）,ereganto (na),elegant; na-Adj
 ファン,ファン,fan,fan,noun
 フルーツ,ふるーつ,furūtsu,fruit
 ガイド,ガイド,gaido,tour guide,noun
 げんきですか,げんきですか,Genki desu ka.,How are you?
+ごちそうさま。,ごちそうさま。,Gochisōsama.,I really enjoyed the meal. Thank you for the meal.
 ごめんなさい,ごめんなさい,gomen nasai,I'm sorry.
 ごろ,ごろ,goro,about/ around,noun
 ゴルフ,ゴルフ,gorufu,golf,noun
@@ -54,10 +57,12 @@
 いってらっしゃい。,いってらっしゃい。,Itterasshai.,See you then!/ Have a nice day!/ Have fun!/ Go and come back! (literal)
 かける,かける,kakeru,to sit/ to hang,verb
 かけうどん,かけうどん,kake udon,noodles in broth
+カレー,カレー,Karē,curry,noun
 かわ,かわ,kawa,leather,noun
 きつい,きつい,kitsui,tight,i-adjective
 こちらこそ,こちらこそ,kochira koso,same here
 こちら,こちら,kochira,this person/ this direction,pronoun
+コーヒー,コーヒー,kōhī,coffee,noun
 コーヒー,コーヒー,kōhī,coffee,noun
 こんばんは,こんばんは,Konbanwa,Good evening,expression
 コンビニ,コンビニ　,konbini,convenience store
@@ -81,12 +86,14 @@
 もしかして,もしかして,moshikashite,perhaps/ possibly
 ナイロン,ナイロン,nairon,nylon,noun
 なくします,なくします,nakushimasu,to lose (masu-form),verb
+ナン,ナン,nan,nan (type of bread)
 なる,なる,naru,to become; V1
 ネクタイ,ネクタイ,nekutai,necktie/ tie
 にぎやか(な),にぎやか(な),nigiyaka(na),bustling/ busy/ lively;-na adjective
 のぼる,のぼる,noboru,to climb,verb
 おばあちゃん,おばあちゃん,obāchan,grandma/ granny
 おばあさん,おばあさん,o-bā-san,grandmother,noun
+おごる,おごる,ogoru,to treat; V1
 おじゃまします,おじゃまします,Ojamashimasu.,excuse me for disturbing (interrupting) you,expression
 おじいちゃん,おじいちゃん,o-jii-chan,grandfather
 おかしい,おかしい,okashii,funny/ strange;Adj(i),adjective
@@ -103,14 +110,18 @@
 プレーする,プレーする,purēsuru,to play
 プロボクサー,プロボクサー,purobokusā,professional boxer
 プロゴルファー,プロゴルファー,purogorufā,pro golfer
+ライス,ライス,raisu,rice,noun
+ラッシー,ラッシー,rassī,lassi (yogurt drink)
 リビング,リビング,ribingu,living room,noun
 ロビー,ロビー,robī ,lobby/ lounge
+ロビー,ロビー,robī,lobby,noun
 ロシア,ロシア,Roshia,Russia,proper noun
 さいふ,さいふ,saifu,wallet/ purse,noun
 サイン,サイン,sain,autograph/ signature
 サイズ,サイズ,saizu,size,noun
 サプライズ,サプライズ,sapuraizu,surprise
 サラリーマン,サラリーマン,sararīman,salary man/ company employee
+セット,セット,setto,set (meal)
 シンガポール,シンガポール,Shingapōru,Singapore,noun
 シリアル,シリアル,shiriaru,cereal
 それとも,それとも,soretomo,or/ either
@@ -232,6 +243,7 @@
 勤める,つとめる,tsutomeru,to work for/ to serve/ to fill a post;V2
 包む,つつむ,tsutsumu,to wrap up/ to dress in
 北鎌倉 ,きたかまくら,Kitakamakura,Kitakamakura(name of a place)
+十五分後,じゅうごふんご,jūgo-fun-go,in 15 minutes
 千葉県,ちばけん,Chiba-ken,Chiba prefecture (Kanto region)
 双子,ふたご,futago,twins/ twin,noun
 取る,とる,toru,to take/ to pick up/ to get/ to pass;V1
@@ -274,6 +286,7 @@
 安い,やすい,yasui,cheap/ inexpensive ; Adj(i),adjective
 実は,じつは,Jitsu wa,the truth is/ actually,adverb
 お客さん,おきゃくさん,o-kyaku-san,guest/ visitor/ customer
+お客様,おきゃくさま,o-kyaku-sama,customer,noun
 お客様,おきゃくさま,o-kyaku-sama,(honored) guest
 家族,かぞく,kazoku,family/ members of a family
 富士山,ふじさん,Fuji-san,Mt. Fuji,proper noun
@@ -293,6 +306,7 @@
 彼女,かのじょ,kanojo,girlfriend,noun
 彼氏,かれし,kareshi,boyfriend,noun
 待つ,まつ,matsu,to wait; [class 1 verb]
+後,ご,go,later/ after
 忘れ物センター,わすれものセンター,wasuremono sentā,lost and found office
 怖い,こわい,kowai,scary/ frightening; Adj(i)
 急に,きゅうに,kyūni,suddenly/ all on a sudden; Adv.
@@ -307,6 +321,7 @@
 救急車,きゅうきゅうしゃ,kyūkyūsha,ambulance,noun
 教える,おしえる,oshieru,to teach/ to tell; V2
 教える,おしえる,oshieru,to teach; V2
+料理,りょうり,ryōri,cooking/ cookery/ cuisine
 新宿,しんじゅく,shinjuku,Shinjuku (a ward in Tokyo)
 新鮮(な),しんせん(な),shinsen(na),fresh;-na adjective
 方,ほう,hō,direction/ somewhere in a certain direction
@@ -318,6 +333,7 @@
 映画,えいが,eiga,movie/ film
 是非,ぜひ,zehi,certainly/ by all means/ please
 昼間,ひるま,hiruma,during the day/ daytime
+昼飯,ひるめし,hirumeshi,lunch
 時間,じかん,jikan,time,noun
 普通,ふつう,futsū,normal/ ordinary,na-adjective
 暗い,くらい,kurai,dark/ gloomy; Adj(i)
@@ -352,12 +368,14 @@
 気にしない,きにしない,ki ni shinai,Don't worry.
 気をつける,きをつける,ki o tsukeru,to be careful; V2,verb
 決める,きめる,kimeru,to decide ; V2
+注文,ちゅうもん,chūmon,order,noun
 海外,かいがい,kaigai,overseas
 渋滞,じゅうたい,jūtai,traffic jam,noun
 灰皿,はいざら,haizara,ashtray,noun
 父,ちち,chichi,father
 お父さん,おとうさん,o-tō-san,father,noun
 犬,いぬ,inu,dog,noun
+珍しい,めずらしい,mezurashii,unusual/ rare
 甘い,あまい,amai,sweet; i adjective
 生まれる,うまれる,umareru,to be born/ V2
 産む,うむ,umu,to give birth/ to bear;V1
@@ -366,6 +384,7 @@
 男,おとこ,otoko,man
 男の子,おとこのこ,otoko-no-ko,boy/ boys
 番目,ばんめ,banme,cardinal number suffix
+お疲れ様,おつかれさま,otsukaresama,thank you/ hello (greeting at work)/ good work,phrase
 病気,びょうき,byōki,sickness/ illness
 病院,びょういん,byōin,hospital,noun
 皆さん,みなさん,mina-san,everyone
@@ -382,6 +401,7 @@
 社会学,しゃかいがく,shakaigaku,social science/ sociology
 祖母,そぼ,sobo,grandmother
 立ち寄る,たちよる,tachiyoru,to stop by; V1
+紅茶,こうちゃ,kōcha,black/Western tea
 紹介する,しょうかいする,shōkai suru,to introduce
 結婚する,けっこんする,kekkon suru,to marry
 結婚する,けっこんする,kekkon suru,to marry; -suru=class 3 verb
@@ -428,6 +448,7 @@
 足立区,あだちく,Adachi ku,Adachi ward
 車,くるま,kuruma,car,noun
 軽い,かるい,karui,light; i-Adj
+辛い,からい,karai,spicy/ hot;Adj (i)
 迎えに来る,むかえにくる,mukae ni kuru,to come and pick someone up (V3)
 近く,ちかく,chikaku,near,noun
 返事,へんじ,henji,answer/ reply
@@ -450,12 +471,14 @@
 集まる,あつまる,atsumaru,to gather; [class 1 verb]
 電車,でんしゃ,densha,electric train
 革,かわ,kawa,leather
+韓国,かんこく,kankoku,Korea
 音,おと,Oto,sound/ noise,noun
 頃,ごろ,goro,around/ about; suffix
 顔,かお,kao,face,noun
 よろしくお願いします,よろしくおねがいします,yoroshiku onegai shimasu,It's a pleasure to meet you.
 食事,しょくじ,shokuji,meal,noun
 食事,しょくじ,shokuji,meal,noun
+食べ放題,たべほうだい,tabehōdai,all-you-can-eat,phrase
 ご飯,ごはん,gohan,rice (cooked)/ meal
 飲みます,のみます,nomimasu,to drink; masu form,verb
 飲む,のむ,nomu,to drink; dictionary form
