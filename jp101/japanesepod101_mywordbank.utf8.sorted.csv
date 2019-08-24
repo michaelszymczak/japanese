@@ -93,6 +93,7 @@
 のぼる,のぼる,noboru,to climb,verb
 おばあちゃん,おばあちゃん,obāchan,grandma/ granny
 おばあさん,おばあさん,o-bā-san,grandmother,noun
+おごります,おごります,ogorimasu,to treat (masu form);V1
 おごる,おごる,ogoru,to treat; V1
 おじゃまします,おじゃまします,Ojamashimasu.,excuse me for disturbing (interrupting) you,expression
 おじいちゃん,おじいちゃん,o-jii-chan,grandfather
@@ -204,6 +205,7 @@
 休み,やすみ,yasumi,closed/ holiday/ day off
 会う,あう,au,to meet; V1,verb
 会社,かいしゃ,kaisha,company/ corporation
+会計,かいけい,kaikei,check/ bill,noun
 似合う,にあう,niau,to suit/ to match; V1
 似顔絵,にがおえ,nigaoe,portrait/ likeness
 位,くらい,kurai,about
@@ -220,6 +222,7 @@
 兄弟,きょうだい,kyōdai,siblings
 先生,せんせい,sensei,teacher,noun
 先週,せんしゅう,senshū,last week/ the week before
+入ります,はいります,hairimasu,to enter/ to go into (masu form)
 お入りください,おはいりください,Ohairikudasai.,Please come in.
 全然,ぜんぜん,zenzen,not at all (with negative verb)
 公園,こうえん,kōen,park,noun
@@ -235,10 +238,13 @@
 分かります,わかります,wakarimasu,to understand/ to grasp/ to know; masu form
 分かる,わかる,wakaru,to understand/ to grasp/ to know;V1
 列,れつ,retsu,row,noun
+初めて,はじめて,Hajimete,first time,expression
+別々, べつべつ,Betsu-betsu,separately
 利用,りよう,riyō,use/ utilization,noun
 刺身,さしみ,sashimi,sliced raw fish/ Sashimi
 前,まえ,mae,front/ before
 前に,まえに,mae ni,before,phrase
+割り勘,わりかん,warikan,splitting the cost
 動物,どうぶつ,dōbutsu,animal
 勤める,つとめる,tsutomeru,to work for/ to serve/ to fill a post;V2
 包む,つつむ,tsutsumu,to wrap up/ to dress in
@@ -297,6 +303,7 @@
 布,ぬの,nuno,cloth,noun
 帰る,かえる,kaeru,to go home/ to return;V1
 お帰りなさい。,おかえりなさい。,O-kaerinasai.,Welcome back/home.
+お店,おみせ,o-mise,shop/ store
 店員,てんいん,ten'in,shop employee/ clerk
 座る,すわる,suwaru,to sit; V1
 -引き,-びき,-biki,-off (price reduction) ;suffix
@@ -406,6 +413,7 @@
 結婚する,けっこんする,kekkon suru,to marry
 結婚する,けっこんする,kekkon suru,to marry; -suru=class 3 verb
 結婚式,けっこんしき,kekkonshiki,marriage ceremony/ wedding
+結構です。,けっこうです。,Kekkō desu.,No thank you.
 給料日,きゅうりょうび,kyūryōbi,payday
 緊張する,きんちょうする,kinchō suru,to feel nervous,verb
 群馬,ぐんま,gunma,Gunma prefecture; area in Japan
