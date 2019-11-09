@@ -22,6 +22,8 @@ To see all covered against some level:
 
 ```
 awk -f script.awk learned.txt kanji_by_frequency_news.txt > results/learned_kanji_by_frequency_news.txt
+awk -f script.awk learned.txt kanji_by_frequency_twitter.txt > results/learned_kanji_by_frequency_twitter.txt
+awk -f script.awk learned.txt kanji_by_frequency_wikipedia.txt > results/learned_kanji_by_frequency_wikipedia.txt
 awk -f script.awk learned.txt kanji_jlpt1_inclusive_probablility_fake.txt > results/learned_kanji_jlpt1_inclusive_probablility_fake.txt
 ```
 
