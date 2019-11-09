@@ -9,7 +9,7 @@ cat wikipedia.json | sed 's/\[//g' | sed 's/\]//g' | sed 's/\"//g' | grep -v all
 To update learned kanji list export to rtk_flashcards.csv and then
 
 ```
-less rtk_flashcards.csv | cut -d, -f2 | xargs | sed 's/[\"a-zA-Z ]//g' > learned.txt
+cat rtk_flashcards.csv | cut -d, -f2 | xargs | sed 's/[\"a-zA-Z ]//g' > learned.txt
 ```
 
 To see learned against some level:
