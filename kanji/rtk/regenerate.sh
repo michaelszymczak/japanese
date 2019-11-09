@@ -7,3 +7,6 @@ awk -f script.awk learned.txt kanji_by_frequency_wikipedia.txt > results/learned
 awk -f script.awk learned.txt kanji_jlpt4_inclusive_probablility_fake.txt > results/learned_kanji_jlpt4_inclusive_probablility_fake.txt
 awk -f script.awk learned.txt kanji_jlpt3_inclusive_probablility_fake.txt > results/learned_kanji_jlpt3_inclusive_probablility_fake.txt
 awk -f script.awk learned.txt kanji_jlpt1_inclusive_probablility_fake.txt > results/learned_kanji_jlpt1_inclusive_probablility_fake.txt
+
+tail -v -n 20000 results/*.txt | grep -v X | grep txt --context=5
+

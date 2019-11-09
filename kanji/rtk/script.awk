@@ -28,7 +28,7 @@ BEGINFILE {
     }
     else
     {
-     print $1," "," ",$2,sum
+     print $1,"X"," ",$2,sum
     }
   }
 }
